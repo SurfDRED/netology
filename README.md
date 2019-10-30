@@ -1,0 +1,2 @@
+# NeuroStartUp
+NeuroStartUp - демо-проект
